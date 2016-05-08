@@ -17,11 +17,11 @@ For a full list of all the APIs and to try them out, check out https://www.haven
 
 ## Installation
 
-    go get github.com/jorgemarsal/hod-go
+    go get github.com/jorgemarsal/go-hod
 
 ## Usage
 
-    import hod "github.com/jorgemarsal/hod-go"
+    import hod "github.com/jorgemarsal/go-hod"
     
     client := hod.NewHODClient(<API_KEY>, "v1", nil)
 
